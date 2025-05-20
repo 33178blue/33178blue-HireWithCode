@@ -4,5 +4,6 @@ This template should help get you started developing with Vue 3 and TypeScript i
 
 Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
 
+此次笔试题项目我没有用服务器+数据库，只单纯是仅仅实现前端静态网页，对于页面就行美化可视化
 
-在线预览vercel地址为：https://33178blue-hire-with-code-3btr.vercel.app
+在线预览 vercel 地址为：https://33178blue-hire-with-code-3btr.vercel.app
