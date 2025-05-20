@@ -37,7 +37,7 @@
 <script setup lang="ts">
 import { ref } from "vue";
 import { useRouter } from "vue-router";
-import { useChallengeStore } from "@/store/index";
+import { useChallengeStore } from "../store/index";
 
 const githubId = ref("");
 const email = ref("");

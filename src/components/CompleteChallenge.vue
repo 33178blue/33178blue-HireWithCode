@@ -20,7 +20,7 @@
 
 <script setup lang="ts">
 import { ref } from "vue";
-import { useChallengeStore } from "@/store/index";
+import { useChallengeStore } from "../store/index";
 
 const repoUrl = ref("");
 const vercelUrl = ref("");
